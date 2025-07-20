@@ -53,9 +53,6 @@ Convert **JSON** to **Neo4j Cypher** — make your data graph-ready
 #### 🔹 [URIQL](https://github.com/restra-social/uriql)
 A query parser that converts URIs into **N1QL** for **Couchbase**
 
-#### 🔹 [FHIR Protobuf](https://github.com/sh0umik/fhir-protobuff)
-Protobuf definitions for **FHIR resources**, used in EHR systems
-
 ---
 
 ### 📝 Publications
@@ -66,10 +63,9 @@ Published in **IEEE ICCIT 2017** — focus on modular, FHIR-compliant health pla
 
 ### 🤝 Let’s Connect
 
-- 🌐 Website: [shoumik.me](https://shoumik.me)  
-- 📧 Email: [fahim.shoumik@gmail.com](mailto:fahim.shoumik@gmail.com)  
-- 🧱 Project: [apito.io](https://apito.io)  
-- 🐦 Twitter: [@sh0umik](https://twitter.com/sh0umik) *(if applicable)*  
+- 🌐 Website: [shoumik.me](https://shoumik.me)
+- 📧 Email: [fahim.shoumik@gmail.com](mailto:fahim.shoumik@gmail.com)
+- 🧱 Project: [apito.io](https://apito.io)
 
 ---
 
